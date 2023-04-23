@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\bin\Debug\net6.0\ExerciseFixing.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\bin\Debug\net6.0\ExerciseFixing.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\bin\Debug\net6.0\ExerciseFixing.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\bin\Debug\net6.0\ExerciseFixing.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\bin\Debug\net6.0\ExerciseFixing.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\obj\Debug\net6.0\ExerciseFixing.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\obj\Debug\net6.0\ExerciseFixing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\obj\Debug\net6.0\ExerciseFixing.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\obj\Debug\net6.0\ExerciseFixing.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\obj\Debug\net6.0\ExerciseFixing.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\obj\Debug\net6.0\ExerciseFixing.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\obj\Debug\net6.0\refint\ExerciseFixing.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\obj\Debug\net6.0\ExerciseFixing.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\obj\Debug\net6.0\ExerciseFixing.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseFixing\ExerciseFixing\obj\Debug\net6.0\ref\ExerciseFixing.dll

@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\bin\Debug\net6.0\ExercisePath.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\bin\Debug\net6.0\ExercisePath.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\bin\Debug\net6.0\ExercisePath.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\bin\Debug\net6.0\ExercisePath.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\bin\Debug\net6.0\ExercisePath.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\obj\Debug\net6.0\ExercisePath.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\obj\Debug\net6.0\ExercisePath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\obj\Debug\net6.0\ExercisePath.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\obj\Debug\net6.0\ExercisePath.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\obj\Debug\net6.0\ExercisePath.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\obj\Debug\net6.0\ExercisePath.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\obj\Debug\net6.0\refint\ExercisePath.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\obj\Debug\net6.0\ExercisePath.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\obj\Debug\net6.0\ExercisePath.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExercisePath\ExercisePath\obj\Debug\net6.0\ref\ExercisePath.dll

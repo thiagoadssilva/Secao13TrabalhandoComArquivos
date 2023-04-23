@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\bin\Debug\net6.0\ExerciseStreamReader.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\bin\Debug\net6.0\ExerciseStreamReader.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\bin\Debug\net6.0\ExerciseStreamReader.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\bin\Debug\net6.0\ExerciseStreamReader.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\bin\Debug\net6.0\ExerciseStreamReader.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\obj\Debug\net6.0\ExerciseStreamReader.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\obj\Debug\net6.0\ExerciseStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\obj\Debug\net6.0\ExerciseStreamReader.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\obj\Debug\net6.0\ExerciseStreamReader.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\obj\Debug\net6.0\ExerciseStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\obj\Debug\net6.0\ExerciseStreamReader.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\obj\Debug\net6.0\refint\ExerciseStreamReader.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\obj\Debug\net6.0\ExerciseStreamReader.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\obj\Debug\net6.0\ExerciseStreamReader.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseStreamReader\ExerciseStreamReader\obj\Debug\net6.0\ref\ExerciseStreamReader.dll

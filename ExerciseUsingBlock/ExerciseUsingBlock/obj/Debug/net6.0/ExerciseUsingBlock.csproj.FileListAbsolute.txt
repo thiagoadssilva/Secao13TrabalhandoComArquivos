@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\bin\Debug\net6.0\ExerciseUsingBlock.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\bin\Debug\net6.0\ExerciseUsingBlock.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\bin\Debug\net6.0\ExerciseUsingBlock.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\bin\Debug\net6.0\ExerciseUsingBlock.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\bin\Debug\net6.0\ExerciseUsingBlock.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\obj\Debug\net6.0\ExerciseUsingBlock.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\obj\Debug\net6.0\ExerciseUsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\obj\Debug\net6.0\ExerciseUsingBlock.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\obj\Debug\net6.0\ExerciseUsingBlock.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\obj\Debug\net6.0\ExerciseUsingBlock.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\obj\Debug\net6.0\ExerciseUsingBlock.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\obj\Debug\net6.0\refint\ExerciseUsingBlock.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\obj\Debug\net6.0\ExerciseUsingBlock.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\obj\Debug\net6.0\ExerciseUsingBlock.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao13TrabalhandoComArquivos\ExerciseUsingBlock\ExerciseUsingBlock\obj\Debug\net6.0\ref\ExerciseUsingBlock.dll
